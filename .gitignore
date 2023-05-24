@@ -27,4 +27,4 @@ share/python-wheels/
 *.egg
 MANIFEST
 
-notebooks/
+.ipynb_checkpoints
